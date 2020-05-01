@@ -18,3 +18,7 @@ weights
 **/dist
 configs
 scripts
+
+jobs/
+*.whl
+docker/run_*.sh
