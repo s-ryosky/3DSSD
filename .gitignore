@@ -19,6 +19,6 @@ weights
 configs
 scripts
 
-jobs/
+/jobs/
 *.whl
-docker/run_*.sh
+/docker/run_*.sh
