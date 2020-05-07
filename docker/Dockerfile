@@ -96,7 +96,7 @@ RUN pip install \
         msgpack \
         msgpack-numpy \
         numpy==1.14.5 \
-        numba==0.43.0 \
+        numba==0.47.0 \
         objgraph \
         open3d-python \
         opencv-python \
